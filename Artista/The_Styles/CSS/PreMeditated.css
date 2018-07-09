@@ -147,7 +147,7 @@ html {
         font-size: 12px; } }
   
   body {
-    background-image: url(../Bootstrap/General_Site/line-maker.svg);
+    background-image: url(../Non_Conformists/line-maker.svg);
     background-repeat: repeat;
     background-position: center center;
     background-color: #111111;
@@ -741,7 +741,7 @@ html {
   float: right; }
 
 .popup.popup__menu {
-  background-image: url(../Bootstrap/General_Site/line-maker.svg);
+  background-image: url(../Non_Conformists/line-maker.svg);
   background-repeat: repeat;
   background-position: center center;
   padding: 0; }
@@ -835,7 +835,7 @@ html {
       .dl-menu__wrap .dl-menu .dl-back a:before {
         content: '';
         background-color: transparent;
-        background-image: url(../Bootstrap/General_Site/arrow-back.svg);
+        background-image: url(../Non_Conformists/arrow-back.svg);
         background-repeat: no-repeat;
         background-position: center center;
         height: 26px;
