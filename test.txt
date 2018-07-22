@@ -1,0 +1,658 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Motivation Solutions: Awakening The Giants.</title>
+
+	<!-- Meta Data -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="KyuubiKeith" />
+	<meta name="keywords" content="leadership, strategic thinking, team-building, team building indoor, outdoor" />
+    <meta name="description" content="(Motivation Solutions 1.0)
+                                                                             Motivation Solutions:
+															                         -An expanding team building company currently based in 
+                                                                                      Kenya and spanning Eastern Africa." />                                                               
+
+	<!-- Favicons -->
+	<link rel="icon" sizes="144x144" href="Artista\The_Elements\Images\Favicon\icons8-infinity-90.png">
+	<link rel="icon" sizes="114x114" href="Artista\The_Elements\Images\Favicon\icons8-infinity-60.png">
+	<link rel="icon" sizes="72x72" href="Artista\The_Elements\Images\Favicon\icons8-infinity-30.png">
+	<link rel="icon" sizes="57x57" href="Artista\The_Elements\Images\Favicon\icons8-infinity-30.png">
+	<link rel="shortcut icon" href="Artista\The_Elements\Images\Favicon\icons8-infinity-30.png" type="image/png">
+	<meta property="og:url" content="Home_Page.html">
+
+  
+    <!-- Styles -->
+    <link rel="stylesheet" type="text/css" href="Artista\The_Styles\CSS\PreMeditated.css"/>
+
+    
+    <!-- Modernizr -->
+    <script src="Artista\The_Styles\JavaScript\Full_Site\modernizr.custom.js" type="text/javascript"></script>
+
+
+</head>
+<body>
+		<!-- Loader  -->
+	    <div class="loading animated">
+				<div class="loading-wrap animated bounceInLeft">
+					<img class="animated infinite bounceIn" src="Artista/The_Elements/Images/Spinners/ball-triangle.svg" alt="Motivation Solutions Logo">
+				</div>
+		</div>
+        <!-- Loader  -->
+        
+        <!-- NavBar -->
+		<div class="top animated slideInDown">
+				<div class="container-fluid">
+					<div class="navbar">
+						<div class="navbar-left">
+							<a href="About_Page.html">
+								<img class="logotype" src="Artista/The_Elements/Images/Spinners/rings.svg" alt="Motivation Solutions Logo Alternative">
+							</a>
+						</div>
+						<div id="open-overlay-nav" class="hamburger">
+							<span class="hamburger__line"></span>
+							<span class="hamburger__line"></span>
+							<span class="hamburger__line"></span>
+							<span class="hamburger__text">Menu</span>
+						</div>
+					</div>
+				</div>
+		</div>
+        <!-- NavBar -->
+        
+        <!-- Welcome Slider --> 
+        <header>    
+                <div class="cont">                    
+                        <div class="slider"></div>
+                        <div data-target='right' class="side-nav side-nav--right"> <a class="btn hero__btn" href="about.html">Discover</a></div>
+                        <div data-target='left' class="side-nav side-nav--left"></div>
+                </div>
+        </header> 
+        <!-- Welcome Slider -->
+
+        <!-- Intro Video -->
+        <section class="section section-video">
+                <video class="video-hero" controls poster="./Artista/The_Elements/Images/Home_Slider/Images/Line_up.jpg">
+                    <source src="./Artista/The_Elements/Videos/Renovatio_Medium.mp4" type="video/mp4">
+                </video>
+                <div class="video-controls">
+                    <button data-media="play-pause"></button>
+                    <button data-media="mute-unmute"></button>
+                </div>  
+                
+                        <!-- Salutations -->
+        <div class="row justify-content-center">
+            <div class="col col-md-12 col-lg-8 col__quote text-center" data-bottom="transform[swing]:translateY(0px)" data--400-top="transform[swing]:translateY(-100px)">
+                <h2 class="title__section title__h1 title_decoration title_vertical-line-top">Hello.</h2>
+                <blockquote class="block-quote block-quote__about">
+                    <p>Motivation Solutions: Awakening The Giants....</p>
+                    — <cite>K.E Charles.</cite>
+                </blockquote>
+            </div>
+        </div>
+        <div class="text-decoration" data-0-start="transform[swing]:translateY(100px)" data--800-top="transform[swing]:translateY(-100px)">Motivation Solutions</div>
+        <!-- Salutations-->
+
+
+        </section>
+        <!-- Intro Video -->
+
+
+        <!-- Portfolio -->
+        <!-- Portfolio -->
+
+        <!-- What The What -->
+        <!-- What The What -->
+
+        <!-- Pricing -->
+        <!-- Pricing -->
+
+        <!-- Footer -->
+        <section>
+        <footer class="footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-4">
+                            <h5 class="title title__h6 text_uppercase">Residence</h5>
+                            <ul class="footer__contacts list-unstyled">
+                                <li>Narshi House along Moktar daddah Street<br/>
+                                    1st Floor. Opp Jevanjee Gardens</li>
+                                    <li> P.O Box 19952 - 00202</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <a href="Contact_Us.html"><h5 class="title title__h6 text_uppercase">Contact</h5></a>
+                            <ul class="footer__contacts list-unstyled">
+                                <li>Email: wilsonk@motivationsolutions.co.ke</li>	
+                                <li>Tel: +254 20 248 5756</li>
+                                <li>Mobile_1: +254 721 970 445</li>
+                                <li>Mobile_2: +254 733 970 445</li>					
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <h5 class="title title__h6 text_uppercase">Social</h5>
+                            <ul class="footer__contacts list-unstyled">
+                                <li>Connect with us on <a class="link_decoration" href="https://www.motivationsolutions.co.ke">motivationsolutions.co.ke</a>,<br/>
+                                    <a class="link_decoration" href="https://www.facebook.com/julian.vokhmianin">Facebook</a>,
+                                    <a class="link_decoration" href="https://twitter.com/vokhmianin">Twitter</a> or 
+                                    <a class="link_decoration" href="https://www.instagram.com/iossboys/">Instagram</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </section>
+        <!-- Footer -->
+
+        <!--  SiriWave -->            
+        <div id="wave"></div>
+        <!--  SiriWave -->
+
+        <!-- Overlay Menu -->
+        <div class="popup popup__menu">
+            <div class="popup-inner">
+                <div class="dl-menu__wrap dl-menuwrapper">
+                    <ul class="dl-menu dl-menuopen">
+                        <li>
+                            <a href="Home_Page.html">Home</a>
+                        </li>
+                        <li><a href="About_Page.html">About Us</a></li>
+                        <li>
+                            <a href="#">Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                            <ul class="dl-submenu">
+                                <li><a href="Indoor_Team_Building.html">Indoor Team Building</a></li>
+                                <li><a href="Outdoor_Team_Building.html">Outdoor Team Building</a></li>
+                                <li><a href="Customized_Packages.html">Customized Packages</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="gallery_fully.html">Portfolio</a>
+                        </li>
+                        
+                        <li><a href="Contact_Us.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- /Overlay Menu -->
+        
+
+        <!-- The Tests-->
+            <div class="loading animated">
+	    <div class="loading-wrap animated bounceInLeft">
+		    <img class="animated infinite bounceIn" src="Artista\Images\Spinners/ball-triangle.svg" alt="Team Direct Logo">
+	    </div>
+	</div>
+	
+    <!-- Top -->
+	<div class="top animated slideInDown">
+	    <div class="container-fluid">
+		    <div class="navbar_v2">
+                <div class="navbar-left">
+                    <a href="About_Page.html">
+                        <img class="logotype" src="Artista\Images\Spinners/rings.svg" alt="Motivation Solutions Logo">
+				    </a>
+                </div>
+				<div id="open-overlay-nav" class="hamburger">
+                    <span class="hamburger__line"></span>
+                    <span class="hamburger__line"></span>
+                    <span class="hamburger__line"></span>
+					<span class="hamburger__text">Menu</span>
+                </div>
+			</div>
+		</div>
+	</div>
+	<!-- /Top -->
+
+	<!-- Hero -->
+	<header class="hero">
+
+		<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+
+		<li><img src="Artista\Images\Home_Slider\Images/The_Rest.jpg" alt="All_In" title="" id="wows1_0"/>
+			<h6 class="title__h6 title__overhead">Jambo</h6>
+			<h2 class="title__h1 hero__title hero__title_line">Motivation Solutions: <br/>Awakening the Giants</h2>
+		</li>
+
+		<li><img src="Artista\Images\Home_Slider\Images/jenga_GrayScale.jpg" alt="All_Rise" title="" id="wows1_1"/>
+			<h6 class="title__h6 title__overhead">Check out our</h6>
+			<h2 class="title__h1 hero__title hero__title_line">Indoor Team<br/>Building Services</h2>
+			<a href="About_Page.html">
+			<img class="animated infinite bounceIn" src="Artista\Images\Spinners/ball-triangle.svg" alt="Team Direct Logo">
+		</a>
+		</li>
+		
+		<li><img src="Artista\Images\Home_Slider\Images/line_up.jpg" alt="line_up" title="" id="wows1_2"/>
+			<h6 class="title__h6 title__overhead">or join our</h6>
+			<h2 class="title__h1 hero__title hero__title_line">Outdoor Team Building<br/>Services</h2>
+		</li>
+
+		<li><img src="Artista\Images\Home_Slider\Images/all_rise.jpg" alt="all_rise" title="" id="wows1_3"/>
+			<h6 class="title__h6 title__overhead">Better yet</h6>
+			<h2 class="title__h1 hero__title hero__title_line">Craft your very own<br/>Team Building Package</h2>
+		</li>
+	</ul>
+</div>
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+    </header>	
+    <!-- /Hero -->
+
+	<!-- Hello-Video -->
+	<section class="section section__hello section_no-space-bottom" id="hello">
+	<section class="section section-video">
+        <video class="video-hero" controls poster="img/Line_Up.jpg">
+            <source src="Artista\Images\Videos/Renovatio_Medium.mp4" type="video/mp4">
+        </video>
+        <div class="video-controls">
+            <button data-media="play-pause"></button>
+            <button data-media="mute-unmute"></button>
+		</div>
+
+		<!-- Hello-Social_Media-->
+		<div class="hero__social animated slideInUp">
+		    <a class="link_decoration" href="https://www.facebook.com/julian.vokhmianin">Facebook</a>
+			<a class="link_decoration" href="https://twitter.com/vokhmianin">Twitter</a>
+			<a class="link_decoration" href="https://www.instagram.com/iossboys/">Instagram</a>
+		</div>
+
+		<!-- Hello-Quote -->
+			<div class="row justify-content-center">
+			    <div class="col col-md-12 col-lg-8 col__quote text-center" data-bottom="transform[swing]:translateY(0px)" data--400-top="transform[swing]:translateY(-100px)">
+				    <h2 class="title__section title__h1 title_decoration title_vertical-line-top">Hello.</h2>
+					<blockquote class="block-quote block-quote__about">
+					    <p>Motivation Solutions: Awakening The Giants....</p>
+						— <cite>K.E Charles.</cite>
+					</blockquote>
+				</div>
+            </div>
+		</div>
+		<div class="text-decoration" data-0-start="transform[swing]:translateY(100px)" data--800-top="transform[swing]:translateY(-100px)">Motivation Solutions</div>
+
+	</section>
+   
+      
+			
+	</section>
+	
+	<!-- /Hello -->
+
+	<!-- Portfolio-->
+	<section class="section section-works">
+    	<div class="container">
+            <div class="row">
+			    <div class="col section__header-wrap">
+				    <h2 class="title__section title__h1 title_horizontal-line"><span class="reveal reveal_gray">Portfolio.</span></h2>
+				</div>
+			</div>
+		</div>
+
+        <div class="container-fluid">
+			<div class="grid-gallery grid-gallery__base grid-gallery_fully">
+				<figure class="item-portfolio item-portfolio__column-four">
+                    <a href="portfolio/project02.html">
+						<img src="img/jenga_GrayScale.jpg" alt="Photo">
+					</a>
+				</figure>
+				<figure class="item-portfolio item-portfolio__column-four">
+                    <a href="portfolio/degusta-app.html">
+						<img src="img/All_Rise.jpg" alt="food healthy brand">
+					</a>
+				</figure>
+				<figure class="item-portfolio item-portfolio__column-four">
+                    <a href="portfolio/feelcodes-website.html">
+						<img src="img/Line_Up.jpg" alt="feelcodes branding">
+					</a>
+				</figure>
+				<figure class="item-portfolio item-portfolio__column-four">
+                    <a href="portfolio/logofolio.html">
+						<img src="img/The_Rest.jpg" alt="logo & branding">
+					</a>
+				</figure>				
+				<figure class="item-portfolio item-portfolio__column-four">
+                    <a href="portfolio/burger.html">
+						<img src="img/All-In.jpg" alt="Photo">
+					</a>
+				</figure>
+				<figure class="item-portfolio item-portfolio__column-four">
+                    <a href="http://casacasco.com/" target="_blank">
+						<img src="img/Mini-Dam.jpg" alt="casacasco website">
+					</a>
+				</figure>
+				<figure class="item-portfolio item-portfolio__column-four">
+                    <a href="portfolio/beer.html">
+						<img src="img/Cross_Over.jpg" alt="Photo">
+					</a>
+				</figure>
+				<figure class="item-portfolio item-portfolio__column-four">
+                    <a href="portfolio/coffee.html">
+						<img src="img/Jenga.jpg" alt="Photo">
+					</a>
+				</figure>
+            </div>
+			
+			<a href="gallery_fully.html" class="btn-link btn-link_right">Explore Gallery</a>
+		</div>		
+	</section>
+    <!-- /My Works -->
+	
+
+	<!-- Testimonials -->
+	<section class="section  section_top-space-230">
+    	<div class="container">
+            <div class="row">
+			    <div class="col section__header-wrap">
+				    <h2 class="title__section title__h1 title_center"><span class="reveal reveal_gray">what we do.</span></h2>
+				</div>
+			</div>
+		</div>
+		
+        <div class="client-carousel swiper-container">
+		    <div class="swiper-wrapper">
+		        <!-- Item -->
+                <div class="swiper-slide client-carousel-item reveal">
+			        <div class="item__block-number">
+				        <span>01.</span>
+				    </div>
+			        <div class="item__block-author">
+				        <div class="item__block-image">
+					        <img src="img/client_image_01.jpg" alt="STRATEGY">
+					    </div>
+					    <div class="item__block-name">
+					        <h3 class="client__name"><strong>STRATEGY</strong></h3>
+							<h4 class="cleint__organization">Flex Production</h4>
+					    </div>
+				    </div>
+				    <div class="item__block-description">
+				        <p>From the integrated marketing campaigns to the web design service, as the focus of our projects with strategic and creative thinking.</p>
+                    </div>        
+			    </div>
+			    <!-- /Item -->
+			
+			    <!-- Item -->
+                <div class="swiper-slide client-carousel-item">
+			        <div class="item__block-author">
+			            <div class="item__block-number">
+				            <span>02.</span>
+				        </div>
+				        <div class="item__block-image">
+					        <img src="img/client_image_02.jpg" alt="design">
+					    </div>
+					    <div class="item__block-name">
+					        <h3 class="client__name"><strong>DESIGN</strong></h3>
+					        <h4 class="cleint__organization">creative art</h4>
+					    </div>
+				    </div>
+				    <div class="item__block-description">
+				        <p>We partner with our clients to create great ideas and translate them into innovative digital experiences.</p>
+                    </div>     
+			    </div>
+			    <!-- /Item -->
+			
+			    <!-- Item -->
+                <div class="swiper-slide client-carousel-item">
+			        <div class="item__block-number">
+				        <span>03.</span>
+				    </div>
+			        <div class="item__block-author">
+				        <div class="item__block-image">
+					        <img src="img/client_image_03.jpg" alt="front end">
+					    </div>
+					    <div class="item__block-name">
+					        <h3 class="client__name"><strong>TECHNOLOGY</strong></h3>
+					        <h4 class="cleint__organization">frontend</h4>
+					    </div>
+				    </div>
+				    <div class="item__block-description">
+				        <p>From the creation of prototypes through the front and back ends of the engineering quality tests, we use the latest technologies in the market.</p>
+                    </div>        
+			    </div>
+			    <!-- /Item -->
+            </div>
+			
+		    <!-- Control -->
+			<div class="swiper-control">
+			    <div class="swiper-pagination"></div>
+                <div class="swiper-button-next">NEXT</div>
+                <div class="swiper-button-prev">PREV</div>
+			</div>
+		</div>
+	</section>
+	<!-- /Testimonials -->
+
+	<!-- Pricing -->
+	<section class="section">
+    	<div class="container">
+            <div class="row">
+			    <div class="col section__header-wrap">
+				    <h2 class="title__section title__h1 title_horizontal-line"><span class="reveal reveal_gray">Pricing.</span></h2>
+				</div>
+			</div>
+		</div>
+		
+		<div class="pricing-grid swiper-container">
+		    <div class="swiper-wrapper">
+			    <!-- Item -->
+			    <div class="swiper-slide pricing-grid__item pricing-grid__item_one" style="background-image: url(Package_Images/Jenga.jpg)">
+				    <h4 class="title__h4">Indoor Team Building.</h4>
+				    <div class="pricing-options">
+					    <div class="pricing-options__name">Package</div>
+					    <div class="pricing-options__included">Customizable on Request</div>
+				    </div>
+				    <div class="pricing-options">
+					    <div class="pricing-options__name">Features</div>
+						<div class="pricing-options__included">• Effective team building solutions </div>
+						<div class="pricing-options__included">• Conference energizers</div>
+						<div class="pricing-options__included">• Training and development</div>
+						<div class="pricing-options__included">• Motivational talks</div>
+				    </div>
+				    <div class="pricing-options">
+					    <div class="pricing-options__name">Remarks</div>
+					    <div class="pricing-options__included">Something tailored specifically to your needs and the needs of your company</div>
+				    </div>
+				    <footer class="pricing-footer">
+					    <div class="price">$150</div>
+						<a href="service1.html" class="btn-link btn-link_right">Explore</a>
+				    </footer>	
+			    </div>
+			    <!-- /Item -->
+			
+			    <!-- Item -->
+			    <div class="swiper-slide pricing-grid__item pricing-grid__item_two" style="background-image: url(Package_Images/Paintball-Team.jpg)">
+				    <h4 class="title__h4">Outdoor Team Building</h4>
+				    <div class="pricing-options">
+					    <div class="pricing-options__name">Package</div>
+					    <div class="pricing-options__included">Customizable upon request</div>
+				    </div>
+				    <div class="pricing-options">
+					    <div class="pricing-options__name">Features</div>
+					    <div class="pricing-options__included">•  A large number of outdoor team building activities and events to suit your taste</div>
+						<div class="pricing-options__included">•  Corporate team building events</div>
+						<div class="pricing-options__included">• designed to improve working relationships in a fun and informal manner</div>
+				    </div>
+				    <div class="pricing-options">
+					    <div class="pricing-options__name">Remarks</div>
+					    <div class="pricing-options__included"> Designed to suit your group’s individual needs and skills</div>
+				    </div>
+				    <footer class="pricing-footer">
+					    <div class="price">$350</div>
+						<a href="service2.html" class="btn-link btn-link_right">Explore</a>
+				    </footer>	
+			    </div>
+			    <!-- /Item -->
+			
+			    <!-- Item -->
+			    <div class="swiper-slide pricing-grid__item pricing-grid__item_two" style="background-image: url(Package_Images/Corporate.jpg)">
+				    <h4 class="title__h4">Team Building Facilitation Program</h4>
+				    <div class="pricing-options">
+					    <div class="pricing-options__name">Package</div>
+					    <div class="pricing-options__included">Improve the effectiveness of your team building corporate event. </div>
+				    </div>
+				    <div class="pricing-options">
+					    <div class="pricing-options__name">Features</div>
+					    <div class="pricing-options__included">•  Provided feedback which will assist in the transfer of the new skills learned in a corporate event back to the office environment</div>
+						<div class="pricing-options__included">•   Q & A Session at the end of the event.</div>
+				    </div>
+				    <div class="pricing-options">
+					    <div class="pricing-options__name">Remarks</div>
+					    <div class="pricing-options__included"> discuss skills learnt throughout the day, and more importantly how these skills can be transferred to the workplace.</div>
+				    </div>
+				    <footer class="pricing-footer">
+					    <div class="price">$350</div>
+						<a href="service2.html" class="btn-link btn-link_right">Explore</a>
+				    </footer>	
+			    </div>
+			    <!-- /Item -->
+
+			    <!-- Item -->
+			    <div class="swiper-slide pricing-grid__item pricing-grid__item_two" style="background-image: url(Package_Images/Big_Building.jpg)">
+				    <h4 class="title__h4">Motivation Solutions Customised Package</h4>
+				    <div class="pricing-options">
+					    <div class="pricing-options__name">Package</div>
+					    <div class="pricing-options__included">Create a custom plan intergrating the previous packages</div>
+				    </div>
+				    <div class="pricing-options">
+					    <div class="pricing-options__name">Features</div>
+						<div class="pricing-options__included">•   Customized package tailored to your Company's needs.</div>
+				    </div>
+				    <div class="pricing-options">
+					    <div class="pricing-options__name">Remarks</div>
+					    <div class="pricing-options__included"> Design a package of your choice</div>
+				    </div>
+				    <footer class="pricing-footer">
+					    <div class="price">N/A</div>
+						<a href="service2.html" class="btn-link btn-link_right">Explore</a>
+				    </footer>	
+			    </div>
+			    <!-- /Item -->
+		    </div>
+			
+		    <!-- Control -->
+			<div class="swiper-control">
+			    <div class="swiper-pagination"></div>
+                <div class="swiper-button-next">NEXT</div>
+                <div class="swiper-button-prev">PREV</div>
+			</div>
+		</div>
+	</section>
+	<!-- /Pricing -->
+	
+	
+	<footer class="footer">
+	    <div class="container">
+		    <div class="row">
+			    <div class="col-md-6 col-lg-4">
+				    <h5 class="title title__h6 text_uppercase">Residence</h5>
+				    <ul class="footer__contacts list-unstyled">
+						<li>Narshi House along Moktar daddah Street<br/>
+							1st Floor. Opp Jevanjee Gardens</li>
+							<li> P.O Box 19952 - 00202</li>
+				    </ul>
+				</div>
+			    <div class="col-md-6 col-lg-4">
+						<a href="Contact_Us.html"><h5 class="title title__h6 text_uppercase">Contact</h5></a>
+				    <ul class="footer__contacts list-unstyled">
+						<li>Email: wilsonk@motivationsolutions.co.ke</li>	
+						<li>Tel: +254 20 248 5756</li>
+						<li>Mobile_1: +254 721 970 445</li>
+						<li>Mobile_2: +254 733 970 445</li>					
+				    </ul>
+				</div>
+			    <div class="col-md-6 col-lg-4">
+				    <h5 class="title title__h6 text_uppercase">Social</h5>
+				    <ul class="footer__contacts list-unstyled">
+						<li>Connect with us on <a class="link_decoration" href="https://www.motivationsolutions.co.ke">motivationsolutions.co.ke</a>,<br/>
+							<a class="link_decoration" href="https://www.facebook.com/julian.vokhmianin">Facebook</a>,
+							<a class="link_decoration" href="https://twitter.com/vokhmianin">Twitter</a> or 
+							<a class="link_decoration" href="https://www.instagram.com/iossboys/">Instagram</a></li>
+				    </ul>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<!-- Overlay Menu -->
+	<div class="popup popup__menu">
+			<div class="popup-inner">
+				<div class="dl-menu__wrap dl-menuwrapper">
+					<ul class="dl-menu dl-menuopen">
+						<li>
+							<a href="Home_Page.html">Home</a>
+						</li>
+						<li><a href="About_Page.html">About Us</a></li>
+						<li>
+							<a href="#">Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+							<ul class="dl-submenu">
+								<li><a href="Indoor_Team_Building.html">Indoor Team Building</a></li>
+								<li><a href="Outdoor_Team_Building.html">Outdoor Team Building</a></li>
+								<li><a href="Customized_Packages.html">Customized Packages</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="gallery_fully.html">Portfolio</a>
+						</li>
+						
+						<li><a href="Contact_Us.html">Contact</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- /Overlay Menu -->
+
+
+    <!-- PhotoSwipe -->
+    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="pswp__bg"></div>
+        <div class="pswp__scroll-wrap">
+            <div class="pswp__container">
+                <div class="pswp__item"></div>
+                <div class="pswp__item"></div>
+                <div class="pswp__item"></div>
+            </div>
+
+            <div class="pswp__ui pswp__ui--hidden">
+                <div class="pswp__top-bar">
+                    <div class="pswp__counter"></div>
+                    <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                    <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                    <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                    <div class="pswp__preloader">
+                        <div class="pswp__preloader__icn">
+                            <div class="pswp__preloader__cut">
+                                <div class="pswp__preloader__donut"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+			
+                <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                    <div class="pswp__share-tooltip"></div> 
+                </div>
+                <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+                <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+
+                <div class="pswp__caption">
+                    <div class="pswp__caption__center"></div>
+                </div>
+            </div>
+        </div>
+    </div>	
+	<!-- /PhotoSwipe -->
+	
+	<div id="wave"></div>
+        <!-- The Tests-->
+
+<!-- JavaScripts -->
+<script src="Artista\The_Styles\JavaScript\Full_Site\jquery-3.1.1.min.js" type="text/javascript"></script>
+<script src="Artista\The_Styles\JavaScript\Full_Site\plugins.js" type="text/javascript"></script>
+<script src="Artista\The_Styles\JavaScript\Full_Site\siriwave.js" type="text/javascript"></script>
+<script src="Artista\The_Styles\JavaScript\Full_Site\common.js" type="text/javascript"></script>
+<script src="Artista/The_Styles/JavaScript/Full_Site\slider.js" type="text/javascript"></script>
+
+</body>
+</html>
